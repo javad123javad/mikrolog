@@ -30,6 +30,6 @@ jobs:
         run: |
           echo Clean project workspace...
           autoreconf -i
-          configure
+         ./configure
           make distclean
           make clean
