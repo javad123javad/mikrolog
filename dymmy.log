@@ -1,1 +1,4 @@
-2021-03-01 08:22:48 [INFO ]:mikrolog.cpp:18 brake or steer not in center_position
+2021-03-01 10:18:37 [INFO ]:mikrolog.cpp:18 brake or steer not in center_position
+2021-03-01 10:18:37 [TRACE]:mikrolog.cpp:19 brake or steer not in center_position
+2021-03-01 10:18:37 [WARN ]:mikrolog.cpp:20 brake or steer not in center_position
+2021-03-01 10:18:37 [ERROR]:mikrolog.cpp:21 brake or steer not in center_position
