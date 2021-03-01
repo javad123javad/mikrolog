@@ -19,5 +19,5 @@ jobs:
       run: ./configure
     - name: make all
       run: make all
-    - name: make clean
-      run: make clean
+    - name: make maintainer-clean
+      run: make maintainer-clean
